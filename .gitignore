@@ -1,0 +1,22 @@
+ Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Contact storage file
+contacts.txt
+
+# System files
+.DS_Store
+Thumbs.db
